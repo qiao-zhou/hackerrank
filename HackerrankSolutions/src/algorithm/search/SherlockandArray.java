@@ -1,3 +1,5 @@
+package algorithm.search;
+
 
 import java.util.Scanner;
 
@@ -11,7 +13,7 @@ import java.util.Scanner;
  * https://www.hackerrank.com/challenges/sherlock-and-array
  * @author Zhou Qiao
  */
-public class Solution_SherlockandArray {
+public class SherlockandArray {
 /*
     Input: 
 2

@@ -1,4 +1,6 @@
-package easy;
+package algorithm.warmup;
+
+
 
 
 /**

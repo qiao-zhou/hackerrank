@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package easy;
+package algorithm.warmup;
 
 import java.io.*;
 import java.util.*;
@@ -15,7 +15,7 @@ import java.util.regex.*;
  *
  * @author Zhou Qiao
  */
-public class Solution_Staircase {
+public class Staircase {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

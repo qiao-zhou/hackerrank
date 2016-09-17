@@ -1,3 +1,5 @@
+package algorithms.graph_theory;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -15,7 +17,7 @@ import java.util.regex.*;
  * @author Zhou Qiao
  */
 
-public class Solution_BFS_ShortedPath {
+public class BFS_ShortestPath {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner scanner = new Scanner(System.in);

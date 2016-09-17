@@ -1,4 +1,4 @@
-package medium;
+package algorithms.dynamic_programming;
 
 import java.io.*;
 import java.util.*;
