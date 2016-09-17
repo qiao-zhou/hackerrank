@@ -1,4 +1,4 @@
-package algorithm.greedy;
+package algorithms.greedy;
 
 
 

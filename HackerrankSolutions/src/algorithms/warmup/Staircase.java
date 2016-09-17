@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package algorithm.warmup;
+package algorithms.warmup;
 
 import java.io.*;
 import java.util.*;

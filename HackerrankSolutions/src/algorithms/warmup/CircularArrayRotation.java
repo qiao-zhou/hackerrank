@@ -1,4 +1,4 @@
-package algorithm.warmup;
+package algorithms.warmup;
 
 
 
